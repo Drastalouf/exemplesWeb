@@ -13,7 +13,7 @@ function App(){
   return (
     <div className="course-goals">
       <h2>Objectifs du cours</h2>
-      <ListeObjectifs objectifs={objectifsCours} />
+      <ListeObjectifs />
     </div>
   );
 };
